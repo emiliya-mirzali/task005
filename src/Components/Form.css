@@ -1,0 +1,11 @@
+.a {
+    background-color: coral;
+    padding: 10px;
+    border: 1px solid black;
+}
+p {
+    background-color: forestgreen;
+    border: 1px solid black;
+    padding: 10px;
+    width: 85%;
+}
